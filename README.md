@@ -4,10 +4,12 @@
 [A182 Draft Stud.pdf](https://github.com/mimiothman/test/files/3028254/A182.Draft.Stud.pdf)
 
 ## Introduction
+In this assigment 2, I can learn to use pdfBox, iText and so on. iText is a Java library originally created by Bruno Lowagie which allows to create PDF, read PDF and manipulate them. The following tutorial will show how to create PDF files with iText. This tutorial assumes that you have basis Java and Eclipse knowledge. iText has a hierarchical structure. The smallest text unit is a "Chunk" which is a String with a pre-defined font. A "Phrase" combines several Chunks and allows to define line spacing. "Paragraph" is a subclass of "Phrase" and allows to define more layout attributes, e.g. margins. The class "Anchor" is a subclass of "Paragraph" and serves as the basis for hyperlinks in the generated PDF. PDFBox is an open source Java PDF library for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. PDFBox also includes several command line utilities. PDFBox was designed by an expert team of software engineers and was funded by inward investment whilst taking advantage of R&D tax credits which is a Research and Development Tax Relief Scheme.
 
 
 ## Output/Result
-output read data in pdf
+
+###Output read data in pdf
 
 1. 
 ![image](https://user-images.githubusercontent.com/37438543/55312349-e4630400-5497-11e9-9262-4b4a6bbe5b87.png)
@@ -94,14 +96,11 @@ output read data in pdf
 42.
 ![image](https://user-images.githubusercontent.com/37438543/55313095-8b946b00-5499-11e9-921b-7730a939a093.png)
 
-output thread
+###Output Thread
 
 ![image](https://user-images.githubusercontent.com/37438543/55318707-f8156700-54a5-11e9-8c1b-ae81ec17e3d4.png)
 
 ![image](https://user-images.githubusercontent.com/37438543/55318491-7faea600-54a5-11e9-955a-a1bdc85802ad.png)
-
-
-
 
 
 ## UML Class Diagram
@@ -111,3 +110,16 @@ output thread
 https://youtu.be/Kkw7g-QHkQM
 
 ## Reference
+
+###Search part
+* http://candidjava.com/tutorial/program-to-search-word-in-a-file/
+* https://stackoverflow.com/questions/13029922/find-specific-word-in-text-file-and-count-it
+
+###Thread in PDFBox
+* https://stackoverflow.com/questions/14531179/threading-issue-in-pdfbox-during-image-generation
+* http://makble.com/convert-pdf-file-to-text-file-with-multi-thread-in-java
+
+###Read pdf file in iText
+* https://www.mkyong.com/java/itext-read-and-write-pdf-in-java/
+* https://itextpdf.com/en/resources/examples/itext-7/chapter-1-introducing-pdf-and-itext
+* https://howtodoinjava.com/apache-commons/read-generate-pdf-java-itext/
