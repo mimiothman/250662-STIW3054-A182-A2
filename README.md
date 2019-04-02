@@ -8,6 +8,7 @@
 
 ## Output/Result
 output read data in pdf
+
 1. 
 ![image](https://user-images.githubusercontent.com/37438543/55312349-e4630400-5497-11e9-9262-4b4a6bbe5b87.png)
 2. 
@@ -94,10 +95,14 @@ output read data in pdf
 ![image](https://user-images.githubusercontent.com/37438543/55313095-8b946b00-5499-11e9-921b-7730a939a093.png)
 
 output thread
+
 1
 ![image](https://user-images.githubusercontent.com/37438543/55318457-6a397c00-54a5-11e9-8e26-08a02fe6685b.png)
 2
-![image](https://user-images.githubusercontent.com/37438543/55318583-ad93ea80-54a5-11e9-84ee-2ba5fa668e9c.png)
+![image](https://user-images.githubusercontent.com/37438543/55318707-f8156700-54a5-11e9-8c1b-ae81ec17e3d4.png)
+
+![image](https://user-images.githubusercontent.com/37438543/55318491-7faea600-54a5-11e9-955a-a1bdc85802ad.png)
+
 
 
 
