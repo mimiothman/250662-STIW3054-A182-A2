@@ -7,6 +7,7 @@
 
 
 ## Output/Result
+output read data in pdf
 1. 
 ![image](https://user-images.githubusercontent.com/37438543/55312349-e4630400-5497-11e9-9262-4b4a6bbe5b87.png)
 2. 
@@ -35,7 +36,6 @@
 ![image](https://user-images.githubusercontent.com/37438543/55312577-72d78580-5498-11e9-879c-a39aa8868908.png)
 14.
 ![image](https://user-images.githubusercontent.com/37438543/55312597-7c60ed80-5498-11e9-9ab9-fa747e64f724.png)
-
 15.
 ![image](https://user-images.githubusercontent.com/37438543/55312618-871b8280-5498-11e9-810c-ebf2717ba725.png)
 16.
@@ -92,8 +92,14 @@
 ![image](https://user-images.githubusercontent.com/37438543/55313075-80413f80-5499-11e9-83e2-a542757ced64.png)
 42.
 ![image](https://user-images.githubusercontent.com/37438543/55313095-8b946b00-5499-11e9-921b-7730a939a093.png)
-43.
-![image](https://user-images.githubusercontent.com/37438543/55313106-98b15a00-5499-11e9-8fe7-143df5a408b9.png)
+
+output thread
+1
+![image](https://user-images.githubusercontent.com/37438543/55318457-6a397c00-54a5-11e9-8e26-08a02fe6685b.png)
+2
+![image](https://user-images.githubusercontent.com/37438543/55318583-ad93ea80-54a5-11e9-84ee-2ba5fa668e9c.png)
+
+
 
 
 ## UML Class Diagram
