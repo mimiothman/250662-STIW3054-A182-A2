@@ -96,9 +96,6 @@ output read data in pdf
 
 output thread
 
-1
-![image](https://user-images.githubusercontent.com/37438543/55318457-6a397c00-54a5-11e9-8e26-08a02fe6685b.png)
-2
 ![image](https://user-images.githubusercontent.com/37438543/55318707-f8156700-54a5-11e9-8c1b-ae81ec17e3d4.png)
 
 ![image](https://user-images.githubusercontent.com/37438543/55318491-7faea600-54a5-11e9-955a-a1bdc85802ad.png)
