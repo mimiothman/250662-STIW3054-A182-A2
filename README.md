@@ -123,3 +123,9 @@ https://youtu.be/Kkw7g-QHkQM
 * https://www.mkyong.com/java/itext-read-and-write-pdf-in-java/
 * https://itextpdf.com/en/resources/examples/itext-7/chapter-1-introducing-pdf-and-itext
 * https://howtodoinjava.com/apache-commons/read-generate-pdf-java-itext/
+
+### How to Generate XML file using Metrics 1.3.8
+* https://www.tutorialspoint.com/eclipse/eclipse_create_xml_file.htm
+
+### How to Generate UML Class Diagram using ObjectAid UML Explore
+* https://www.javatips.net/blog/generate-class-diagram-using-eclipse
