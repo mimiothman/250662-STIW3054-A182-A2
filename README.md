@@ -76,7 +76,6 @@
 ![image](https://user-images.githubusercontent.com/37438543/55312927-38221d00-5499-11e9-8562-72e33584c315.png)
 34.
 ![image](https://user-images.githubusercontent.com/37438543/55312938-407a5800-5499-11e9-8db2-7b5d2648590c.png)
-
 35.
 ![image](https://user-images.githubusercontent.com/37438543/55312971-4a03c000-5499-11e9-8c5d-3e5f72044d5d.png)
 36.
@@ -87,6 +86,14 @@
 ![image](https://user-images.githubusercontent.com/37438543/55313027-67d12500-5499-11e9-9489-f1dcd3fcf968.png)
 39.
 ![image](https://user-images.githubusercontent.com/37438543/55313046-6ef83300-5499-11e9-9331-695a16cc8ae6.png)
+40.
+![image](https://user-images.githubusercontent.com/37438543/55313064-77e90480-5499-11e9-9303-eb0337741748.png)
+41.
+![image](https://user-images.githubusercontent.com/37438543/55313075-80413f80-5499-11e9-83e2-a542757ced64.png)
+42.
+![image](https://user-images.githubusercontent.com/37438543/55313095-8b946b00-5499-11e9-921b-7730a939a093.png)
+43.
+![image](https://user-images.githubusercontent.com/37438543/55313106-98b15a00-5499-11e9-8fe7-143df5a408b9.png)
 
 
 ## UML Class Diagram
